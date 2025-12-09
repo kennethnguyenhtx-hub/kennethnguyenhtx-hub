@@ -17,7 +17,7 @@ I'm a data analyst building projects that tackle real-world problems using data 
 
 **Collaboration with UH Law School and UH IT Department**
 ---
-Building the first comprehensive database of U.S. Congressional private laws spanning 1789-2025. Working with Professor Chris Mirasola to digitize, categorize, and make searchable over 45,000 private laws that have never been systematically compiled.
+Building the first comprehensive database of U.S. Congressional private laws spanning 1789-2025. Working with Professor Chris Mirasola to digitize, categorize, and make searchable over 45,000 private laws that have never been publicly accessible.
 
 **Key Highlights:**
 - Processed 45,000+ private laws from government sources
