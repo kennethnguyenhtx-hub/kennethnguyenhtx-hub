@@ -48,7 +48,7 @@ Parsed 12,000+ SEC 10-K filings to map cloud provider dependencies across 2,500+
 **Key Findings:**
 - AWS dominates at 70% market share among disclosing companies
 - Cloud dependency grew from 62% (2020) to 77.6% (2025)
-- Single AWS outage put $2.5B+ in revenue at risk
+- Most recent AWS outage (DynamoDB/DNS Oct 2025) put $2.5B+ in revenue at risk
 
 **Tech Stack:**
 
