@@ -6,7 +6,7 @@ I'm a data analyst building projects that tackle real-world problems using data 
 
 ## Projects
 
-### 📜 Congressional Private Laws Database *(In Progress)*
+### 📜 [Congressional Private Laws Database *(In Progress)*](https://github.com/kennethnguyenhtx-hub/Enterprise-Cloud-Outage-Analysis/blob/main/README.md)
 
 <table>
 <tr>
@@ -32,7 +32,7 @@ Building the first comprehensive database of U.S. Congressional private laws spa
 </tr>
 </table>
 
-### ☁️ Enterprise Cloud Outage Analysis
+### ☁️ [Enterprise Cloud Outage Analysis](https://github.com/kennethnguyenhtx-hub/Enterprise-Cloud-Outage-Analysis/blob/main/README.md)
 
 <table>
 <tr>
