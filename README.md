@@ -6,6 +6,33 @@ I'm a data analyst building projects that tackle real-world problems using data 
 
 ## Projects
 > Click title for more details
+
+### ☁️ [Enterprise Cloud Outage Analysis](https://github.com/kennethnguyenhtx-hub/Enterprise-Cloud-Outage-Analysis/blob/main/README.md)
+
+<table>
+<tr>
+<td width="60%">
+<img src="./Dashboard1.png" width="100%"/>
+</td>
+<td width="40%" valign="top">
+
+**Analyzing financial impact of cloud outages on U.S. enterprises**
+---
+Parsed 12,000+ SEC 10-K filings to map cloud provider dependencies across 2,500+ Russell 3000 companies and calculate revenue exposure during major outages.
+
+**Key Findings:**
+- AWS dominates at 70% market share among disclosing companies
+- Cloud dependency grew from 62% (2020) to 77.6% (2025)
+- Most recent AWS outage (DynamoDB/DNS Oct 2025) put $2.5B+ in revenue at risk
+
+**Tech Stack:**
+
+`Python` · `SEC EDGAR API` · `yfinance` · `MySQL` · `Power BI` · `ETL Pipeline`
+
+</td>
+</tr>
+</table>
+
 ### 📜 [Congressional Private Laws Database *(In Progress)*](https://github.com/kennethnguyenhtx-hub/Private-Law-Dashboard/blob/main/README.md)
 
 <table>
@@ -27,32 +54,6 @@ Building the first comprehensive database of U.S. Congressional private laws spa
 **Technical Skills:**
 
 `Python` · `Dash` · `Plotly` · `MySQL` · `API Integration`
-
-</td>
-</tr>
-</table>
-
-### ☁️ [Enterprise Cloud Outage Analysis](https://github.com/kennethnguyenhtx-hub/Enterprise-Cloud-Outage-Analysis/blob/main/README.md)
-
-<table>
-<tr>
-<td width="60%">
-<img src="./Dashboard2.png" width="100%"/>
-</td>
-<td width="40%" valign="top">
-
-**Analyzing financial impact of cloud outages on U.S. enterprises**
----
-Parsed 12,000+ SEC 10-K filings to map cloud provider dependencies across 2,500+ Russell 3000 companies and calculate revenue exposure during major outages.
-
-**Key Findings:**
-- AWS dominates at 70% market share among disclosing companies
-- Cloud dependency grew from 62% (2020) to 77.6% (2025)
-- Most recent AWS outage (DynamoDB/DNS Oct 2025) put $2.5B+ in revenue at risk
-
-**Tech Stack:**
-
-`Python` · `SEC EDGAR API` · `yfinance` · `MySQL` · `Power BI` · `ETL Pipeline`
 
 </td>
 </tr>
